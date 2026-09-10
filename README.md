@@ -1,34 +1,33 @@
 <h1 align="center">Hi, I'm Mohamed Ali 👋</h1>
 
 <p align="center">
-  Aspiring Computer Science Student from Morocco 🇲🇦
+  Computer Science Student 🇲🇦 | Future Software Engineer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Moroccan high school student (Sciences Physiques)
-* 💻 Learning Computer Science and Software Development
-* 📚 Currently studying CS50
-* 🌱 Learning C, Python, Git, and GitHub
-* 🎯 Goal: Study Computer Science Engineering in Belgium
-* 🚀 Building projects to improve my programming skills
+I'm a Computer Science student from Morocco with a strong interest in software engineering, problem solving, and technology.
+
+I am currently building a solid foundation in programming, algorithms, and software development while working on personal projects to improve my practical skills.
+
+My long-term goal is to become a skilled software engineer and contribute to impactful technology projects.
 
 ---
 
-## 🔭 Currently Learning
+## 🎯 Current Focus
 
-* C Programming
-* Python
+* Computer Science Studies
+* CS50
 * Problem Solving
-* Algorithms
+* Software Development
 * Git & GitHub
-* Basic Web Development
+* Programming Projects
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,33 +38,43 @@
 
 ---
 
-## 📚 Current Projects
+## 📚 Currently Learning
 
-* CS50 Exercises
-* Programming Practice Projects
-* Future Portfolio Website
-* Future Python Applications
+* Algorithms & Data Structures
+* Python Programming
+* C Programming
+* Software Engineering Fundamentals
+* Version Control with Git
 
 ---
 
 ## 🌍 Languages
 
 * Arabic (Native)
-* French (Learning)
-* English (Learning)
-* Dutch (Learning)
+* English (IELTS Candidate)
+* French
+* Dutch
 
 ---
 
-## 📈 My Goal for 2026
+## 🚀 Future Projects
 
-Build a strong foundation in programming, create useful projects, and prepare for university studies in Computer Science.
+* CS50 Final Project
+* Python Applications
+* Portfolio Website
+* Open Source Contributions
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-* GitHub: @YourUsername
+GitHub: @IronSoul-Ar
+
+---
+
+## 💡 Personal Motto
+
+"Real growth comes from discipline, consistency, and continuous learning."
 
 ---
 
