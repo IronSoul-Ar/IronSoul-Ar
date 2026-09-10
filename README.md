@@ -64,15 +64,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronSoul-Ar&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=IronSoul-Ar&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronSoul-Ar&layout=compact&theme=github_dark" />
 </p>
 
 ---
