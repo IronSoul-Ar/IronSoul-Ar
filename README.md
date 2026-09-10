@@ -1,83 +1,99 @@
 <h1 align="center">Hi, I'm Mohamed Ali 👋</h1>
 
+<h3 align="center">Computer Science Student • Problem Solver • Lifelong Learner</h3>
+
 <p align="center">
-  Computer Science Student 🇲🇦 | Future Software Engineer
+  <a href="https://github.com/IronSoul-Ar">
+    <img src="https://komarev.com/ghpvc/?username=IronSoul-Ar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science student from Morocco with a strong interest in software engineering, problem solving, and technology.
-
-I am currently building a solid foundation in programming, algorithms, and software development while working on personal projects to improve my practical skills.
-
-My long-term goal is to become a skilled software engineer and contribute to impactful technology projects.
+* 🎓 Computer Science Student from Morocco 🇲🇦
+* 💻 Passionate about Software Engineering and Technology
+* 📚 Currently studying Computer Science and CS50
+* 🌱 Expanding my knowledge in Programming, Algorithms, and Software Development
+* 🎯 Working toward becoming a highly skilled software engineer
+* ⚡ Strong believer in discipline, consistency, and continuous improvement
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Goals
 
-* Computer Science Studies
-* CS50
-* Problem Solving
-* Software Development
-* Git & GitHub
-* Programming Projects
+* Complete CS50
+* Strengthen problem-solving skills
+* Build practical programming projects
+* Improve software development skills
+* Contribute to open-source projects
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux" />
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📖 Currently Learning
 
 * Algorithms & Data Structures
-* Python Programming
-* C Programming
+* Object-Oriented Programming
 * Software Engineering Fundamentals
-* Version Control with Git
+* Git & GitHub
+* Python Development
+* Computer Science Concepts
 
 ---
 
 ## 🌍 Languages
 
-* Arabic (Native)
-* English (IELTS Candidate)
+* Arabic — Native
+* English — IELTS Candidate
 * French
 * Dutch
 
 ---
 
-## 🚀 Future Projects
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IronSoul-Ar&show_icons=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronSoul-Ar&layout=compact" />
+</p>
+
+---
+
+## 🚧 Upcoming Projects
 
 * CS50 Final Project
-* Python Applications
+* Python Utility Applications
 * Portfolio Website
 * Open Source Contributions
 
 ---
 
-## 📫 Connect With Me
+## 💡 IronSoul Philosophy
 
-GitHub: @IronSoul-Ar
-
----
-
-## 💡 Personal Motto
-
-"Real growth comes from discipline, consistency, and continuous learning."
+> Real growth is built through discipline, consistency, and continuous learning.
 
 ---
 
-## 💻 Featured Repositories
+## 📫 Connect
 
-Check out my projects below ⬇️
+* GitHub: **@IronSoul-Ar**
+
+---
+
+### ⭐ Featured Repositories
+
+The projects below represent my learning journey and continuous progress in Computer Science.
